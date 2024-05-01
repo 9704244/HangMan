@@ -12,3 +12,4 @@ The Goal of this project is to make a never-ending, FlappyBird-like game with ob
 ## Project Download
 
 ### Link:
+![Download](![Class Diagram](https://github.com/9704244/HangMan/blob/main/imgs/FlappyBirdCloneUI.drawio.png))
