@@ -8,7 +8,7 @@ Python-based Flappy Bird clone, with graphics implementation using Pygame. Pilla
 The Goal of this project is to make a never-ending, FlappyBird-like game with object detection systems with a scoring system.
 
 ## UI Logic and Planning
-![Class Diagram](https://github.com/9704244/HangMan/blob/main/imgs/FlappyBirdCloneUI.drawio.png)
+![Class Diagram](https://github.com/9704244/FlappyBirdClone/blob/main/imgs/FlappyBirdCloneUI.drawio.png?raw=true)
 ## Project Download
 
 ### Link:
