@@ -29,5 +29,3 @@ To run this project with the 'cd' command, you will need to do the following:
 
 ### Instructional Links:
 [How to Use The 'cd' Command](https://www.shiksha.com/online-courses/articles/how-to-change-directory-in-cmd/#:~:text=To%20change%20the%20directory%20in,%E2%80%9Ccd%20C%3ANewDirectory.%E2%80%9D)
-
-https://github.com/9704244/FlappyBirdClone/tree/main/src/FlappyBirdClone
