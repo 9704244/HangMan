@@ -13,7 +13,7 @@ The Goal of this project is to make a never-ending, FlappyBird-like game with ob
 ## How to Run The Project
 [Class Diagram]()
 ### Source Code
-[How to Use The 'cd' Command](https://github.com/9704244/FlappyBirdClone/tree/main/src/FlappyBirdClone)
+[Download Link](https://github.com/9704244/FlappyBirdClone/tree/main/src/FlappyBirdClone)
 #### Instructions:
 This project requires the use of the 'cd' command (see linked site) or an integrated development environment (IDE) to run. Regardless of which method you use, you will need to install python, and the game-making based attatchment to python, pygame.
 
