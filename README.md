@@ -11,7 +11,7 @@ The Goal of this project is to make a never-ending, FlappyBird-like game with ob
 ![Class Diagram](https://github.com/9704244/FlappyBirdClone/blob/main/imgs/FlappyBirdCloneUI.drawio.png?raw=true)
 
 ## How to Run The Project
-[Class Diagram]()
+
 ### Source Code
 [Download Link](https://github.com/9704244/FlappyBirdClone/tree/main/src/FlappyBirdClone)
 ### Instructions:
