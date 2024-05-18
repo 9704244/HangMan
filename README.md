@@ -20,7 +20,7 @@ To run this project with the 'cd' command, you will need to do the following:
 1. Install python, pygame, and this github repository to your computer
 2. Open up command prompt (if you're on windows) or terminal (if you're on an Apple device)
 3. Use the 'cd' command to navigate your way to the source code:
-   * Downloads\FlappyBirdClone-main\FlappyBirdClone-main\src\FlappyBirdClone (This may slightly differ depending on you're computer or where you have stored the Github Repository, but you can use this as a guide)
+   * Downloads\FlappyBirdClone-main\FlappyBirdClone-main\src\FlappyBirdClone (This may slightly differ depending on you're computer or where you have stored the Github Repository, but can still be used as a general guide to the 'FlappyBirdClone folder, AKA the source code)
 4. Use the 'python3 main.py' command to run the application
 5. If you wish to restart, in command prompt or terminal use the key combination 'ctrl + z', and then redo step 4
 6. To exit entirely, simply hit the exit button
