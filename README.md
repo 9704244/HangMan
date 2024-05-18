@@ -11,8 +11,9 @@ The Goal of this project is to make a never-ending, FlappyBird-like game with ob
 ![Class Diagram](https://github.com/9704244/FlappyBirdClone/blob/main/imgs/FlappyBirdCloneUI.drawio.png?raw=true)
 
 ## How to Run The Project
-
-#### Source Code Download:
+[Class Diagram]()
+### Source Code
+[How to Use The 'cd' Command](https://github.com/9704244/FlappyBirdClone/tree/main/src/FlappyBirdClone)
 #### Instructions:
 This project requires the use of the 'cd' command (see linked site) or an integrated development environment (IDE) to run. Regardless of which method you use, you will need to install python, and the game-making based attatchment to python, pygame.
 
@@ -28,3 +29,5 @@ To run this project with the 'cd' command, you will need to do the following:
 
 #### Instructional Links:
 [How to Use The 'cd' Command](https://www.shiksha.com/online-courses/articles/how-to-change-directory-in-cmd/#:~:text=To%20change%20the%20directory%20in,%E2%80%9Ccd%20C%3ANewDirectory.%E2%80%9D)
+
+https://github.com/9704244/FlappyBirdClone/tree/main/src/FlappyBirdClone
