@@ -12,7 +12,7 @@ The Goal of this project is to make a never-ending, FlappyBird-like game with ob
 
 ## How to Run The Project
 
-### Instructions:
+#### Instructions:
 This project requires the use of the 'cd' command (see linked site) or an integrated development environment (IDE) to run. Regardless of which method you use, you will need to install python, and the game-making based attatchment to python, pygame.
 
 To run this project with the 'cd' command, you will need to do the following:
@@ -25,5 +25,5 @@ To run this project with the 'cd' command, you will need to do the following:
 5. If you wish to restart, in command prompt or terminal use the key combination 'ctrl + z', and then redo step 4
 6. To exit entirely, simply hit the exit button
 
-### Links:
+#### Links:
 [How to Use The 'cd' Command](https://www.shiksha.com/online-courses/articles/how-to-change-directory-in-cmd/#:~:text=To%20change%20the%20directory%20in,%E2%80%9Ccd%20C%3ANewDirectory.%E2%80%9D)
